@@ -15,8 +15,8 @@ Write a function called make_shirt() that accepts a size and the text of a messa
 // to print on console
 // console.log(myFunction);
 
-let myFunction = (size: number , label: string) =>{
-    return size + label
-}
+// let myFunction = (size: number , label: string) =>{
+//     return size + label
+// }
 
-console.log(myFunction(36, " The bright sunny day with full of colors and the beautiful beach"));
+// console.log(myFunction(36, " The bright sunny day with full of colors and the beautiful beach"));
