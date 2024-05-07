@@ -10,8 +10,8 @@ function make_album(artist:string, album:string){
 // make three dictionaries representing different albums. 
 
 let album1 = make_album("Amir Ali" , "Top Hits" );
-let album2 = make_album("Farhan Shah" , "Classics" );
-let album3 = make_album("Sherin" , "Continental" );
+let album2 = make_album("Fahad Hussain" , "Fahad Classics" );
+let album3 = make_album("Sherin" , "Continental Music" );
 
 console.log(album1);
 console.log(album2);
@@ -25,8 +25,8 @@ function make_album2(artist:string, album:string, numberOfTracks?: number){
 // make three dictionaries representing different albums. 
 
 let album4 = make_album2("Amir Ali" , "Top Hits" , 40);
-let album5 = make_album2("Farhan Shah" , "Classics" , 50);
-let album6 = make_album2("Sherin" , "Continental", 30);
+let album5 = make_album2("Fahad Hussain" , "Fahad abc" , 50);
+let album6 = make_album2("Sherin" , "Cont. Music", 30);
 
 console.log(album4);
 console.log(album5);
